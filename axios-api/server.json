@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "student_name": "Huỳnh Công Tính11",
+      "email": "huynhcongtinh@gmail.com",
+      "address": "Long An",
+      "phone": "01234567890",
+      "status": false,
+      "created_at": "1998-01-01T00:00:00Z"
+    },
+    {
+      "id": 2,
+      "student_name": "Nguyễn Thị Mai",
+      "email": "nguyenthimai@example.com",
+      "address": "Hà Nội",
+      "phone": "09876543210",
+      "status": true,
+      "created_at": "1999-05-15T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "student_name": "Lê Thị ",
+      "email": "lethib@example.com",
+      "address": "TP.HCM",
+      "phone": "0932145678",
+      "status": false,
+      "created_at": "2000-10-20T00:00:00Z"
+    },
+    {
+      "id": 5,
+      "student_name": "Phạm Văn Cường",
+      "email": "phamvancuong@example.com",
+      "address": "Bình Dương",
+      "phone": "0852369741",
+      "status": true,
+      "created_at": "2001-12-25T00:00:00Z"
+    }
+  ]
+}
